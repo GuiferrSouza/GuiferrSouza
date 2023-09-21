@@ -12,6 +12,7 @@ I'm a software developer with a strong background in full-stack development. Cur
 [<img src="https://img.shields.io/badge/style-SASS-pink?logo=sass"/>]()
 [<img src="https://img.shields.io/badge/style-Bootstrap-purple?logo=bootstrap"/>]()
 [<img src="https://img.shields.io/badge/style-Fontawesome-blue?logo=fontawesome"/>]()
+
 [<img src="https://img.shields.io/badge/code-javascript-yellow?logo=javascript"/>]()
 [<img src="https://img.shields.io/badge/code-HTML-red?logo=html5"/>]()
 [<img src="https://img.shields.io/badge/code-Python-blue?logo=python"/>]()
@@ -20,6 +21,7 @@ I'm a software developer with a strong background in full-stack development. Cur
 [<img src="https://img.shields.io/badge/database-SQL-blue?logo=postgreSql"/>]()
 [<img src="https://img.shields.io/badge/database-MongoDB-darkGreen?logo=mongodb"/>]()
 [<img src="https://img.shields.io/badge/database-Oracle-white?logo=oracle"/>]()
+
 [<img src="https://img.shields.io/badge/tools-Node-darkGreen?logo=nodedotjs"/>]()
 [<img src="https://img.shields.io/badge/tools-npm-red?logo=npm"/>]()
 [<img src="https://img.shields.io/badge/tools-Figma-red?logo=figma"/>]()
