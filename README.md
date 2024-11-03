@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/08/80/99/68/360_F_880996872_bYpNA8ag6UnbnNPOLQEI98JEonRcTGiN.jpg" alt="Paisagem" style="width: 100%; height: auto; margin-top: 10px;">
+<img src="top-flowers.png" style="width: 100%; height: auto; margin-top: 10px;">
 
 ## Hello Word! I'm Guilherme 👋 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-ferreira-de-souza-96696b205/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guif_souza/) [<img src="https://img.shields.io/badge/whatsapp-%2384DB28.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/5511914048724) [<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:guilherme.ferr.souza@gmail.com)
 
@@ -10,10 +10,10 @@ I'm a software developer with a strong background in full-stack development. Cur
   <tr>
     <td>
      <a href="https://www.eplan.com.br">
-       <img src="https://b2bindustry.net/wp-content/uploads/EPLAN-SOFTWARE-SERVICE-SRL-1x1-1.jpg" alt="Eplan Logo" style="width: 150px; height: 150px;">
+       <img src="eplan-logo.png" alt="Eplan Logo" style="width: 150px; height: 150px;">
      </a>
      <a href="https://www.fei.edu.br">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_FEI.jpg" alt="Logo FEI" style="width: 150px; height: 150px;">
+       <img src="fei-logo.png" alt="Logo FEI" style="width: 150px; height: 150px;">
      </a><br>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiferrSouza&hide=html" alt="Top Langs" style="width: 304px">
     </td>
