@@ -1,10 +1,21 @@
 <img src="top-flowers.png" style="width: 100%; height: auto; margin-top: 10px;">
 
-## Hello Word! I'm Guilherme 👋 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-ferreira-de-souza-96696b205/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guif_souza/) [<img src="https://img.shields.io/badge/whatsapp-%2384DB28.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/5511914048724) [<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:guilherme.ferr.souza@gmail.com)
+<h2>
+  <p align="center">
+    <span>👋 Hello World! I'm Guilherme</span> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:guilherme.ferr.souza@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/5511914048724"><img src="https://img.shields.io/badge/whatsapp-%2384DB28.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/guif_souza/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/guilherme-ferreira-de-souza-96696b205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</h2>
+
 
 I'm a software developer with a strong background in full-stack development. Currently, I'm a part of the talented team at EPLAN, where I work diligently to create innovative software solutions. At the same time, I'm pursuing knowledge in the field of Computer Science at FEI to further enhance my technical foundation. 
 
 `Full-Stack Developer` `Software Developer at EPLAN` `Computer Science student at university FEI`
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiferrSouza&hide=html)
 
 <table>
   <tr>
