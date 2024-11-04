@@ -17,7 +17,7 @@ I'm a software developer with a strong background in full-stack development. Cur
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiferrSouza&hide=html" alt="Langs" height="240px"/>
-  <img src="code.gif" alt="Code GIF" height="240px"/>
+  <img src="programming.gif" alt="Programming GIF" height="240px"/>
 </div>
 
 <h2>Skills</h2>
