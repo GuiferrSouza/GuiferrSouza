@@ -15,7 +15,10 @@ I'm a software developer with a strong background in full-stack development. Cur
 
 `Full-Stack Developer` `Software Developer at EPLAN` `Computer Science student at university FEI`
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiferrSouza&hide=html)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiferrSouza&hide=html" alt="Langs" height="240px"/>
+  <img src="code.gif" alt="Code GIF" height="240px"/>
+</div>
 
 <h2>Skills</h2>
 
