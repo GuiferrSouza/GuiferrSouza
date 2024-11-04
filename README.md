@@ -1,4 +1,4 @@
-<img src="top-flowers.png" style="width: 100%; height: auto; margin-top: 10px;">
+<img src="header.png" style="width: 100%;">
 
 <h2>
   <p align="center">
@@ -39,3 +39,5 @@ I'm a software developer with a strong background in full-stack development. Cur
     </td>
   </tr>
 </table>
+
+<img src="footer.png" style="width: 100%;">
