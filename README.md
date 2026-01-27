@@ -11,7 +11,7 @@
 </h2>
 
 
-I'm a software developer with a strong background in full-stack development. Currently, I'm a part of the talented team at EPLAN, where I work diligently to create innovative software solutions. At the same time, I'm pursuing knowledge in the field of Computer Science at FEI to further enhance my technical foundation. 
+I am a software developer with a strong background in full-stack development, currently working at EPLAN, where I contribute to the development of innovative and reliable software solutions. Alongside my professional experience, I am pursuing a degree in Computer Science at FEI (Centro Universitário da Fundação Educacional Inaciana Pe. Sabóia de Medeiros), continuously expanding my technical foundation and improving my skills in modern software development and system design. 
 
 `Full-Stack Developer` `Software Developer at EPLAN` `Computer Science student at university FEI`
 
