@@ -12,7 +12,7 @@
 
 ---
 
-Hey there! I'm **Guilherme**, a Full-Stack Developer from **São Paulo, Brazil**, working on enterprise solutions at **EPLAN**. I love exploring new tech, building clean code, and creating things that actually work. 
+Hey there! I'm **Guilherme**, a Full-Stack Developer from **São Paulo, Brazil** <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1e7-1f1f7.png" width="16px">, working on enterprise solutions at **EPLAN**. I love exploring new tech, building clean code, and creating things that actually work. 
 
 ---
 
